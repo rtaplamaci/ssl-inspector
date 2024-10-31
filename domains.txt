@@ -1,0 +1,3 @@
+rtaplamaci.com
+python.org
+kubernetes.io
